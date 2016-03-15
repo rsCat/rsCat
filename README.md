@@ -1,5 +1,1 @@
 # rsCat
-
-##メンバー
-
-*testmenber
